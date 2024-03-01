@@ -21,27 +21,27 @@
 
 ### Internship experience 
 
-- 2020 – 2021  **Visiting Student**, Huazhong University of Science and Technology, National Anti-counterfeit Engineering Research Center.
-- 2018 – 2019  **Visiting Student**, Xi’an Institute of Optics and Precision Mechanics, Chinese Academy of
+- 2020 – 2021  👨‍🏭 **Visiting Student**, 🏫 Huazhong University of Science and Technology, National Anti-counterfeit Engineering Research Center.
+- 2018 – 2019  👨‍🏭 **Visiting Student**, 🏫 Xi’an Institute of Optics and Precision Mechanics, Chinese Academy of
 Sciences, Center for OPTical IMagery Analysis and Learning.
-- 2019 – 2020  **Visiting Student**, Westlake University, the Artificial Intelligence Research and Innovation
+- 2019 – 2020  👨‍🏭 **Visiting Student**, 🏫 Westlake University, the Artificial Intelligence Research and Innovation
 Laboratory.
 ---
 
 ### Educational background
 
-- 2021 – · · · ·  **Ph.D.**, Northwestern Polytechnical University
+- 2021 – · · · ·  👨‍🎓 **Ph.D.**, 🏫 Northwestern Polytechnical University
 Supervisor: Bin Zhao, Xuelong Li  Cyberspace Security
-- 2016 – 2019  **M.Sc.**, Xi’an University of Posts & Telecommunications
+- 2016 – 2019 👨‍🎓 **M.Sc.**, 🏫 Xi’an University of Posts & Telecommunications
 Supervisor: Dianwei Wang  Signal and Information Processing
-- 2012 – 2016  **B.Eng.**, Xi’an University of Posts & Telecommunications
+- 2012 – 2016  👨‍🎓 **B.Eng.**, 🏫 Xi’an University of Posts & Telecommunications
 Supervisor: Dianwei Wang  Radio and Television Engineering
 
 ---
 
 
 
-### NEWS 
+### 📰 NEWS 
 - 2018.08.09, one paper is accepted by Journal of Xi'an University of Posts and Telecommunications.
 - 2018.10.25, one paper is accepted by Control and decision.
 - 2018.11.09, one paper is accepted by Acta Physica Sinica.
@@ -63,9 +63,9 @@ Supervisor: Dianwei Wang  Radio and Television Engineering
 
 ---
 
-## Academic papers
+### 📒 Academic papers
 
-### Journal Articles
+#### 🖹Journal Articles
 
 - [1]．B. Zhao, ***<font color=Yellow> P. Han </font>***, and X. Li, “Vehicle Perception From Satellite,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, pp. 1–10, 2023.  doi:10.1109/TPAMI.2023.3335953. （SCI 一区、人工智能顶级期刊、IF: 24.314）
 - [2]．***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Progressive Feature Interleaved Fusion Network for Remote-Sensing Image Salient Object Detection,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024. doi:10.1109/TGRS.2023.3339970. （SCI 一区、遥感顶级期刊、IF: 8.2）
@@ -84,7 +84,7 @@ Supervisor: Dianwei Wang  Radio and Television Engineering
   
 ---
 
-### Conference Proceedings
+#### 🖺 Conference Proceedings
 
 - [1]．H. Fang, ***<font color=Yellow> P. Han </font>***, and H. Xiao, “Key Technologies on High-capacity Satellite Imagery Compression,” *in Proc. of the 2023 IEEE 11th International Conference on Information, Communication and Networks (ICICN)*, Xi'an, China, 2023, pp. 212-217, doi: 10.1109/ICICN59530.2023.10393767. （EI 索引）
 - [2]．S. Wang, D. Wang, ***<font color=Yellow> P. Han </font>***, X. Ren, and Z. XU, “Text Recognition in UAV Aerial Images,” *in Proc. of the 2021 4th International Conference on Artificial Intelligence and Pattern Recognition*, pp. 232-238. 2021. （EI 索引）
@@ -100,7 +100,7 @@ Supervisor: Dianwei Wang  Radio and Television Engineering
 ---
 
 
-### Projects
+#### 💻 Projects
 
 - "Panoramic Image Enhancement based on Virtual Reality", the Leader of Project, Inter School Project, ***Excellent Defense***.
 
@@ -123,15 +123,15 @@ Supervisor: Dianwei Wang  Radio and Television Engineering
   
 ---
 
-### Skills
+#### Skills
 - Languages  Strong reading, writing and speaking competencies for English, Mandarin Chinese.
 - Coding  Matlab, Markdown, Python, C++, C, LATEX, . . .
 - Misc.  Academic research, teaching, training, consultation, LATEX typesetting, and publishing.
   
 ---
 
-## Miscellaneous Experience
-### Awards and Achievements
+### 🗂 Miscellaneous Experience
+#### 🎖️ Awards and Achievements
 
 - Best Paper Award, IEEE 11th International Conference on Information, Communication
 and Networks.
@@ -145,7 +145,7 @@ and Networks.
 
 ---
 
-### Academic services
+#### 💻︎ Academic services
 
 - ***2024*** **International Technical Committees**, International Conference on Artificial Intelligence and Pattern Recognition
 
@@ -180,18 +180,18 @@ and Communications
 
 ---
 
-## Editor
+####  Editor
 - 2019-2020  **Editor of the Community of the BAAI**, Beĳing Academy of Artificial Intelligence.
 - 2020  **Editor of the BAAI Conference 2020**, Beĳing Academy of Artificial Intelligence.
 - 2019 **Editor of the BAAI Conference 2019**, Beĳing Academy of Artificial Intelligence.
   
 ---
 
-## The Journal Reviewers 
+#### The Journal Reviewers 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Geoscience and Remote Sensing,IEEE Transactions on Intelligent Transportation Systems,IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Instrumentation and Measurement, IEEE Access.
 
 ---
-### Links to my mentors and friends  
+### 🤛 Links to my mentors and friends  
 
 <a href="(https://iopen.nwpu.edu.cn/info/1251/1852.htm)"  target="_blank">Dr. B. Zhao</a> (NWPU, China),  <a href="(https://iopen.nwpu.edu.cn/info/1015/1172.htm)"  target="_blank">Dr. X. Li</a> (NWPU, China),  <a href="(https://scholar.google.com/citations?user=BnoaPUYAAAAJ&hl=en&oi=ao)"  target="_blank">Dr. H. Yao</a> (WHU, China),  <a href="(https://www.researchgate.net/profile/Xiaopeng-Guo-4)"  target="_blank">Dr. X. Guo</a> (PKU, China), <a href="http://www.xuptciip.com.cn/show.html?team-wangdianwei"  target="_blank">Dr. D Wang</a> (XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-lidaxiang"  target="_blank">Dr. D Li</a>(XUPT, China),  <a href="http://www.xuptciip.com.cn/show.html?team-liuying"  target="_blank">Dr. Y Liu</a>  (XUPT, China),  <a href="https://www.shu.ac.uk/about-us/our-people/staff-profiles/jing-wang"  target="_blank">Dr. J Wang</a>(UOS, UK),  <a href="https://pure.hud.ac.uk/en/persons/zhijie-xu"  target="_blank">Dr. Z. Xu</a>(HUD, UK),  <a href="https://pure.hud.ac.uk/en/persons/louie-qin"  target="_blank">Dr. Y Qin</a> (HUD, UK),   <a href="http://www.xiyou.edu.cn/info/2407/68014.htm"  target="_blank">Dr. J Fan</a> (XUPT, China)
 
