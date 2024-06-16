@@ -67,7 +67,7 @@ Supervisor: Dianwei Wang  Radio and Television Engineering
 
 #### 🖹Journal Articles
 
-- [1]．B. Zhao, ***<font color=Yellow> P. Han </font>***, and X. Li, “Vehicle Perception From Satellite,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, pp. 1–10, 2023.  doi:10.1109/TPAMI.2023.3335953. （SCI 一区、人工智能顶级期刊、IF: 24.314）
+- [1]．B. Zhao, ***<font color=Yellow> P. Han </font> （学生一作）***, and X. Li, “Vehicle Perception From Satellite,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, pp. 1–10, 2023.  doi:10.1109/TPAMI.2023.3335953. （SCI 一区、人工智能顶级期刊、IF: 24.314）
 - [2]．***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Progressive Feature Interleaved Fusion Network for Remote-Sensing Image Salient Object Detection,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024. doi:10.1109/TGRS.2023.3339970. （SCI 一区、遥感顶级期刊、IF: 8.2）
 - [3]．H. Yao, and J. Chen, and Z. Wang, and X. Wang, and ***<font color=Yellow> P. Han </font>***, and X. Chai, and Y. Qiu, “Occlusion-Aware Plane-Constraints for Monocular 3D Object Detection,” *IEEE Transactions on Intelligent Transportation Systems*, pp. 1–13, 2023.  doi:10.1109/TITS.2023.3323036. （SCI 一区、智能交通顶级期刊、IF: 8.5）
 - [4]．***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Edge-guided remote-sensing image compression,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1–15, 2023.  doi:10.1109/TGRS.2023.3314012. （SCI 一区、遥感顶级期刊、IF: 8.2）
