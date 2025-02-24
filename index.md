@@ -67,23 +67,25 @@
 ## 学术论文
 
 ### 期刊论文
-- [1] Jian Yang, ***<font color=Yellow> P. Han </font>（学生一作）***,and X. Li, “Equilibrating the impact of fluid scattering attenuation on underwater optical imaging via adaptive parameter learning,” *Optics Express*, pp. 23333-23346, 2024.  
-- [2] ***<font color=Yellow> P. Han </font>（学生一作）***, Fuhua Zhang, B. Zhao,  and X. Li, “Motion-Aware Video Frame Interpolation,” *Neural Networke*, pp. 1–10, 2024.  
-- [3]．B. Zhao, ***<font color=Yellow> P. Han </font>（学生一作）***, and X. Li, “Vehicle Perception From Satellite,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, pp. 1–10, 2023.  doi:10.1109/TPAMI.2023.3335953. （SCI 一区、人工智能顶级期刊、IF: 24.314）
-- [4]．***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Progressive Feature Interleaved Fusion Network for Remote-Sensing Image Salient Object Detection,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024. doi:10.1109/TGRS.2023.3339970. （SCI 一区、遥感顶级期刊、IF: 8.2）
-- [5]．H. Yao, and J. Chen, and Z. Wang, and X. Wang, and ***<font color=Yellow> P. Han </font>***, and X. Chai, and Y. Qiu, “Occlusion-Aware Plane-Constraints for Monocular 3D Object Detection,” *IEEE Transactions on Intelligent Transportation Systems*, pp. 1–13, 2023.  doi:10.1109/TITS.2023.3323036. （SCI 一区、智能交通顶级期刊、IF: 8.5）
-- [6]．***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Edge-guided remote-sensing image compression,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1–15, 2023.  doi:10.1109/TGRS.2023.3314012. （SCI 一区、遥感顶级期刊、IF: 8.2）
-- [7]．H. Yao, J. Chen, Z. Wang, et al., “Vertex Points Are Not Enough: Monocular 3D Object Detection via Intra- and Inter-plane Constraints,” *Neural Networks*, vol. 162, pp. 350–358, 2023, issn: 0893-6080. （SCI 一区、神经科学顶级期刊、IF: 7.8）
-- [8]．X. Li, X. Guo, ***<font color=Yellow> P. Han </font>***, X. Wang, H. Li, and T. Luo, “Laplacian Redecomposition for Multimodal Medical Image Fusion,” *IEEE Transactions on Instrumentation and Measurement*, vol. 69, no. 9, pp. 6880–6890, 2020. （SCI 二区、仪器仪表顶级期刊、IF: 5.6）
-- [9]．J. Fang, X. Cao, ***<font color=Yellow> P. Han </font>***, and D. Wang, “Multidimensional Attention Learning for VHR Remote Sensing Imagery Recognition,” *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1–5, 2022. doi: 10.1109/LGRS.2020.3045496. （SCI 三区、IF: 48）
-- [10]．D. Wang, S. Li, ***<font color=Yellow> P. Han </font>***, Y. Liu, J. Jiang, and X. Ren, “Feature Constraint CycleGAN for Single Image Dehazing Algorithm,” *Laser & Optoelectronics Progress*, vol. 58, no. 272-278, 2021. （SCI 四区）
-- [11]．D. Wang, Z. Xing, ***<font color=Yellow> P. Han </font>***, Y. Liu, J. Jiang, and X. Ren, “Low Illumination Panoramic Image Enhancement Algorithm based on Simulated Multi-exposure Fusion,” *Guangxue Jingmi Gongcheng/Optics and Precision Engineering*, vol. 29, no. 2, pp. 349–362, 2021.
 
-- [12]．D. Wang, ***<font color=Yellow> P. Han </font>***, D. Li, Y. Liu, Z. Xu, and J. Wang, “Low-light Panoramic Image Enhancement based on Detail-feature Fusion,” [J/OL]. *Control and Decision*, vol. 34, no. 12, pp. 2673–2678, 2019. （EI 索引）
-- [13]．D. Wang, ***<font color=Yellow> P. Han </font>***, Y. Liu, Z. Xu, Y. Qin, and J. Wang, “Progress of Low Light Panoramic Image Enhancement,”*Journal of Xi’an University of Post and Telecommunications*, vol. 23, pp. 48–53, 2019. （中国科技核心期刊）
-- [14]．D. Wang, X. Yang, ***<font color=Yellow> P. Han </font>***, et al., “Panoramic Video Motion Small Target Detection Algorithm in Complex Background [J/OL],” *Control and Decision*, pp. 09–29, 2019. （EI 索引）
-- [15]．D. Wang, ***<font color=Yellow> P. Han </font>***, J. Fan, Y. Liu, Z. Xu, and J. Wang, “Multispectral Image Enhancement based on Illuminance-Reﬂection Imaging Model and Morphology Operation,” *Acta Physica Sinica*, vol. 67, no. 21, 2018. （SCI 四区）
-  
+
+  - [1] P. Han, J. Huang, J. Yang, X. Li, "Uncertainty-guided Siamese Transformer Network for salient object detection." *Expert Systems with Applications* (2025): 126690.
+- [2] Jian Yang, ***<font color=Yellow> P. Han </font>***, and X. Li, “Equilibrating the impact of fluid scattering attenuation on underwater optical imaging via adaptive parameter learning,” *Optics Express*, pp. 23333-23346, 2024.  
+- [3] ***<font color=Yellow> P. Han </font>***, Fuhua Zhang, B. Zhao, and X. Li, “Motion-Aware Video Frame Interpolation,” *Neural Networke*, pp. 1–10, 2024.  
+- [4] B. Zhao, ***<font color=Yellow> P. Han </font>***, and X. Li, “Vehicle Perception From Satellite,” *IEEE Transactions on Pattern Analysis and Machine Intelligence*, pp. 1–10, 2023. doi:10.1109/TPAMI.2023.3335953. （SCI 一区、人工智能顶级期刊、IF: 24.314）
+- [5] ***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Progressive Feature Interleaved Fusion Network for Remote-Sensing Image Salient Object Detection,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024. doi:10.1109/TGRS.2023.3339970. （SCI 一区、遥感顶级期刊、IF: 8.2）
+- [6] H. Yao, and J. Chen, and Z. Wang, and X. Wang, and ***<font color=Yellow> P. Han </font>***, and X. Chai, and Y. Qiu, “Occlusion-Aware Plane-Constraints for Monocular 3D Object Detection,” *IEEE Transactions on Intelligent Transportation Systems*, pp. 1–13, 2023. doi:10.1109/TITS.2023.3323036. （SCI 一区、智能交通顶级期刊、IF: 8.5）
+- [7] ***<font color=Yellow> P. Han </font>***, B. Zhao, and X. Li, “Edge-guided remote-sensing image compression,” *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1–15, 2023. doi:10.1109/TGRS.2023.3314012. （SCI 一区、遥感顶级期刊、IF: 8.2）
+- [8] H. Yao, J. Chen, Z. Wang, et al., “Vertex Points Are Not Enough: Monocular 3D Object Detection via Intra- and Inter-plane Constraints,” *Neural Networks*, vol. 162, pp. 350–358, 2023, issn: 0893-6080. （SCI 一区、神经科学顶级期刊、IF: 7.8）
+- [9] X. Li, X. Guo, ***<font color=Yellow> P. Han </font>***, X. Wang, H. Li, and T. Luo, “Laplacian Redecomposition for Multimodal Medical Image Fusion,” *IEEE Transactions on Instrumentation and Measurement*, vol. 69, no. 9, pp. 6880–6890, 2020. （SCI 二区、仪器仪表顶级期刊、IF: 5.6）
+- [10] J. Fang, X. Cao, ***<font color=Yellow> P. Han </font>***, and D. Wang, “Multidimensional Attention Learning for VHR Remote Sensing Imagery Recognition,” *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1–5, 2022. doi: 10.1109/LGRS.2020.3045496. （SCI 三区、IF: 48）
+- [11] D. Wang, S. Li, ***<font color=Yellow> P. Han </font>***, Y. Liu, J. Jiang, and X. Ren, “Feature Constraint CycleGAN for Single Image Dehazing Algorithm,” *Laser & Optoelectronics Progress*, vol. 58, no. 272-278, 2021. （SCI 四区）
+- [12] D. Wang, Z. Xing, ***<font color=Yellow> P. Han </font>***, Y. Liu, J. Jiang, and X. Ren, “Low Illumination Panoramic Image Enhancement Algorithm based on Simulated Multi-exposure Fusion,” *Guangxue Jingmi Gongcheng/Optics and Precision Engineering*, vol. 29, no. 2, pp. 349–362, 2021.
+- [13] D. Wang, ***<font color=Yellow> P. Han </font>***, D. Li, Y. Liu, Z. Xu, and J. Wang, “Low-light Panoramic Image Enhancement based on Detail-feature Fusion,” [J/OL]. *Control and Decision*, vol. 34, no. 12, pp. 2673–2678, 2019. （EI 索引）
+- [14] D. Wang, ***<font color=Yellow> P. Han </font>***, Y. Liu, Z. Xu, Y. Qin, and J. Wang, “Progress of Low Light Panoramic Image Enhancement,” *Journal of Xi’an University of Post and Telecommunications*, vol. 23, pp. 48–53, 2019. （中国科技核心期刊）
+- [15] D. Wang, X. Yang, ***<font color=Yellow> P. Han </font>***, et al., “Panoramic Video Motion Small Target Detection Algorithm in Complex Background [J/OL],” *Control and Decision*, pp. 09–29, 2019. （EI 索引）
+- [16] D. Wang, ***<font color=Yellow> P. Han </font>***, J. Fan, Y. Liu, Z. Xu, and J. Wang, “Multispectral Image Enhancement based on Illuminance-Reflection Imaging Model and Morphology Operation,” *Acta Physica Sinica*, vol. 67, no. 21, 2018. （SCI 四区）
+
 ---
 
 
